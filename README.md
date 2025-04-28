@@ -1,24 +1,61 @@
-# AtWork - Registrador de Ponto de Trabalho
+## AtWork
 
-**Descrição**  
-O AtWork é uma aplicação desenvolvida para registrar e gerenciar pontos de trabalho de forma eficiente. Perfeito para empresas e equipes que desejam um controle centralizado e simples das horas trabalhadas.
+O AtWork é uma plataforma tecnológica desenvolvida para facilitar o registro de ponto de trabalho de forma moderna, segura e eficiente. O sistema permite que colaboradores realizem a marcação de entrada, saída e intervalos diretamente por dispositivos móveis ou web, garantindo flexibilidade tanto para empresas quanto para equipes em diferentes modelos de trabalho, como presencial, híbrido ou remoto.
 
-**Funcionalidades Planejadas**  
-- Registro de entrada e saída de trabalho.  
-- Acompanhamento de histórico de pontos.  
-- Geração de relatórios sobre horas trabalhadas.  
-- Suporte para múltiplos usuários e perfis personalizados.  
+## Objetivo Principal
 
-**Tecnologias Utilizadas**  
-- **Backend**: C#/.NET Core  
-- **Frontend Web**: React com Vite  
-- **Aplicativo Móvel**: React Native  
-- **Banco de Dados**: PostgreSQL  
+O objetivo principal do AtWork é desenvolver e implementar uma solução eficiente para o monitoramento de registros de ponto dos colaboradores dentro das organizações. A plataforma resultante visa oferecer ao setor de Recursos Humanos uma visualização clara e organizada dos horários de trabalho dos funcionários, incluindo entradas, saídas e pausas, garantindo mais controle, transparência e facilidade na gestão da jornada de trabalho.
 
-**Objetivo**  
-Oferecer uma solução moderna e prática para o gerenciamento de jornadas de trabalho, ajudando empresas e funcionários a economizar tempo e aumentar a produtividade.
+## Autor
 
-**Status do Projeto**  
-Em desenvolvimento 🚧  
+ * Gustavo Henrique Borges
 
-Sugestões e colaborações são bem-vindas!
+# Frontend
+
+![logo-react](https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000) 
+![logo-eslint](https://img.icons8.com/?size=100&id=RBnCyho7WRn7&format=png&color=000000)
+![logo-ts](https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000) 
+         
+## Tecnologias e Ferramentas
+
+ * **React**: Biblioteca principal para construção da interface de usuário.
+ * **Axios**: Para fazer requisições HTTP.
+ * **ESLint**: Ferramenta de linting para garantir a qualidade e padronização do código.
+ * **VS Code**: Editor de texto.
+
+# Backend
+
+![logo-csharp](https://img.icons8.com/?size=100&id=55251&format=png&color=000000) 
+
+## Tecnologias e Ferramentas
+
+ * **.NET Core**: Framework moderno da linguagem C# para construção de APIs Rest e etc.
+ * **MediatR**: Gerencia requests entre controller e handlers.
+ * **FluentValidator**: Biblioteca para validação de requests.
+ * **Swagger**: Ferramenta para documentação de APIs RESTful.
+ * **XUnit**: Ferramente para criação de testes unitários em C#.
+
+# Banco de Dados
+
+![logo-postgres](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
+
+
+# IA
+
+![logo-chatgpt](https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000)
+
+## Ferramentas de Desenvolvimento
+
+ * **Continuous Deployment (CD)**: Github Actions
+
+# Links
+
+## Aplicação
+
+ * [**AtWork-Portal**](): Link da Aplicação.
+
+## Repositórios
+
+ * [**Repositório do Backend**](https://github.com/Portfolio-AtWork/AtWorkAPI): Link do repositório do back-end.
+ * [**Repositório do Frontend**](https://github.com/Portfolio-AtWork/atwork-admin-portal): Link do repositório do front-end.
+ * [**Repositório do Mobile**](https://github.com/Portfolio-AtWork/atwork-mobile): Link do repositório do app mobile.
