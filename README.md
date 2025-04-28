@@ -23,6 +23,17 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
  * **ESLint**: Ferramenta de linting para garantir a qualidade e padronização do código.
  * **VS Code**: Editor de texto.
 
+
+# Mobile
+
+![logo-reactnative](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
+![logo-tw](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)
+
+## Tecnologias e Ferramentas
+
+**React Native/Expo**: Bundler de React Native
+**Nativewind**: Biblioteca CSS
+
 # Backend
 
 ![logo-csharp](https://img.icons8.com/?size=100&id=55251&format=png&color=000000) 
