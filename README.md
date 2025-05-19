@@ -70,3 +70,8 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
  * [**Repositório do Backend**](https://github.com/Portfolio-AtWork/AtWorkAPI): Link do repositório do back-end.
  * [**Repositório do Frontend**](https://github.com/Portfolio-AtWork/atwork-admin-portal): Link do repositório do front-end.
  * [**Repositório do Mobile**](https://github.com/Portfolio-AtWork/atwork-mobile): Link do repositório do app mobile.
+
+## Trello
+
+* [**Cards do Trello**](https://trello.com/b/4TA6DrbA/portfolio-atwork): Link dos card no Trello.
+
