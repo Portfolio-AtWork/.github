@@ -63,7 +63,7 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 ## Aplicação
 
- * [**AtWork-Portal**](): Link da Aplicação.
+ * [**AtWork-Portal**](https://atwork-admin-portal-cjgta7hha4cjfjgq.canadacentral-01.azurewebsites.net/login): Link da Aplicação.
 
 ## Repositórios
 
