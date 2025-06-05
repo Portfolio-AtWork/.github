@@ -64,7 +64,7 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 ## Aplicação
 
  * [**AtWork-Portal**](https://atwork-admin-portal-cjgta7hha4cjfjgq.canadacentral-01.azurewebsites.net/login): Link da Aplicação.
- * [**AtWork-Mobile**](https://expo.dev/accounts/gustavoh1709/projects/atwork-mobile/builds/7d054b9f-9fe8-45ec-b0bc-b39411490836) Link para baixar APK
+ * [**AtWork-Mobile**](https://expo.dev/accounts/gustavoh1709/projects/atwork-mobile/builds) Link para baixar APK
 
 ## Repositórios
 
