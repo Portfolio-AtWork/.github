@@ -76,3 +76,12 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 * [**Cards do Trello**](https://trello.com/b/4TA6DrbA/portfolio-atwork): Link dos card no Trello.
 
+### Dados de Acesso
+
+| Login Web | Senha Web | Login Mobile          | Senha Mobile |
+|-----------|-----------|-----------------------|--------------|
+| usuario_1 | 123       | usuario_1_funcionario | 123          |
+| usuario_2 | 123       | usuario_2_funcionario | 123          |
+| usuario_3 | 123       | usuario_3_funcionario | 123          |
+| usuario_4 | 123       | usuario_4_funcionario | 123          |
+| usuario_5 | 123       | usuario_5_funcionario | 123          |
