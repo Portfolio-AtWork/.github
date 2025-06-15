@@ -85,3 +85,9 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 | usuario_3 | 123       | usuario_3_funcionario | 123          |
 | usuario_4 | 123       | usuario_4_funcionario | 123          |
 | usuario_5 | 123       | usuario_5_funcionario | 123          |
+
+### Code Coverage
+
+![**Covertura de Testes da API**](coverage-api.png)
+
+![**Covertura de Testes do Portal**](coverage-web.png)
