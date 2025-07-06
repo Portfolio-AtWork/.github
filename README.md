@@ -94,3 +94,7 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 ![**Covertura de Testes do Portal**](corevage-web.png)
 
 ![**Covertura de Testes do App**](corevare-mobile.png)
+
+## Estrutura do Projeto
+
+![**Imagem da Estrutura**](portfolio.drawio)
