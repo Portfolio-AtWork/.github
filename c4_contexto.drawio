@@ -38,30 +38,8 @@
         <mxCell id="Dg9mZwrB-1rd47UA7Utw-4" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dg9mZwrB-1rd47UA7Utw-9" target="Dg9mZwrB-1rd47UA7Utw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-25" value="API Handlers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dg9mZwrB-1rd47UA7Utw-19">
-          <mxGeometry x="-0.1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-9" value="API&lt;div&gt;Endpoints&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dg9mZwrB-1rd47UA7Utw-9" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-15" value="DB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="560" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dg9mZwrB-1rd47UA7Utw-18" target="Dg9mZwrB-1rd47UA7Utw-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-26" value="ORM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dg9mZwrB-1rd47UA7Utw-20">
-          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dg9mZwrB-1rd47UA7Utw-18" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
