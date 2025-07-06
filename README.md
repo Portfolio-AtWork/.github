@@ -97,4 +97,4 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 ## Estrutura do Projeto
 
-![**Imagem da Estrutura**](portfolio.drawio)
+![**Imagem da Estrutura**](portfolio.png)
