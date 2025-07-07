@@ -99,6 +99,22 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 ![**Imagem da Estrutura**](portfolio.png)
 
+## C4
+
+## Componentes
+
+## Componente API
+
+![**componente_API**](componente_api.png)
+
+## Componente Web
+
+![**componente Web**](componente_web.png)
+
+## Componente Mobile
+
+![**componente Mobile**](componente_mobile.png)
+
 ## UML
 
 ![**UML**](UML.png)
