@@ -98,3 +98,7 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 ## Estrutura do Projeto
 
 ![**Imagem da Estrutura**](portfolio.png)
+
+## UML
+
+![**UML**](UML.png)
