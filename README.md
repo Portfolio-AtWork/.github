@@ -101,6 +101,14 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 ## C4
 
+## Container
+
+![**container**](c4_container.drawio.png)
+
+## Contexto
+
+![**container**](c4_contexto.drawio.png)
+
 ## Componentes
 
 ## Componente API
