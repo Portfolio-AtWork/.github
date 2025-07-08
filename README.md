@@ -136,4 +136,4 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 
 ## Slides da Apresentação
 
-![**slides**](https://github.com/Portfolio-AtWork/.github/blob/main/Apresenta%C3%A7%C3%A3o.pdf)
+* [**slides**](https://github.com/Portfolio-AtWork/.github/blob/main/Apresenta%C3%A7%C3%A3o.pdf): Arquivo PDF
