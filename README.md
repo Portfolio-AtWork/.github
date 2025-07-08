@@ -133,3 +133,7 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 - 🔜 Análise dos dados (Horas totais trabalhas, frequência de faltas)
 - 🔜 Disponibilizar o app mobile para sistema IOS
 - 🔜 Coleta de geolocalização do funcionário ao registrar um ponto
+
+## Slides da Apresentação
+
+![**slides**](Apresentação.pdf)
