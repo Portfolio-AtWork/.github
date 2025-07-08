@@ -126,3 +126,10 @@ O objetivo principal do AtWork é desenvolver e implementar uma solução eficie
 ## UML
 
 ![**UML**](UML.png)
+
+## Planos Futuros ou Melhorias
+
+- 🔜 Sistema de horários de trabalho
+- 🔜 Análise dos dados (Horas totais trabalhas, frequência de faltas)
+- 🔜 Disponibilizar o app mobile para sistema IOS
+- 🔜 Coleta de geolocalização do funcionário ao registrar um ponto
